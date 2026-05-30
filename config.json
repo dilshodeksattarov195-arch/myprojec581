@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingselete",
+        "uuid": 1265418,
+        "checksum": "ulsnfb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
